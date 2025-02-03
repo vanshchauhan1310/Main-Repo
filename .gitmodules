@@ -1,0 +1,3 @@
+[submodule "style-repo"]
+	path = style-repo
+	url = git@github.com:vanshchauhan1310/style-repo.git
