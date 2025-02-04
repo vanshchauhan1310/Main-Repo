@@ -1,3 +1,6 @@
 [submodule "style-repo"]
 	path = style-repo
 	url = git@github.com:vanshchauhan1310/style-repo.git
+[submodule "js-Repo"]
+	path = js-Repo
+	url = https://github.com/vanshchauhan1310/js-Repo.git
